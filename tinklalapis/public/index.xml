@@ -6,7 +6,21 @@
     <description>Recent content on Tinklalapis</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 02:51:18 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/GustasKK.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pavadinimas</title>
+      <link>http://localhost:1313/GustasKK.github.io/posts/tinklalapis/</link>
+      <pubDate>Sat, 14 Dec 2024 02:51:18 +0200</pubDate>
+      <guid>http://localhost:1313/GustasKK.github.io/posts/tinklalapis/</guid>
+      <description>&lt;p&gt;Keli sakiniai&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mano pirmas puslapis</title>
+      <link>http://localhost:1313/GustasKK.github.io/posts/tinklas/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/GustasKK.github.io/posts/tinklas/</guid>
+      <description>&lt;h2 id=&#34;sveiki-atvykę&#34;&gt;&#xD;&#xA;  Sveiki atvykę!&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#sveiki-atvyk%c4%99&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Tai yra pirmas straipsnis Hugo tinklalapyje. Štai ką mes rodysime:&lt;/p&gt;&#xA;&lt;h3 id=&#34;paveikslėlis&#34;&gt;&#xD;&#xA;  Paveikslėlis&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#paveiksl%c4%97lis&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/GustasKK.github.io/images/beautiful-landscape.jpg&#34; alt=&#34;Gražus peizažas&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;kodo-pavyzdys&#34;&gt;&#xD;&#xA;  Kodo pavyzdys&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#kodo-pavyzdys&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;pasisveikinimas&lt;/span&gt;(vardas):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveikas, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;vardas&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(pasisveikinimas(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Lietuva&amp;#34;&lt;/span&gt;))&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>
